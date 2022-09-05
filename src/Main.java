@@ -4,6 +4,12 @@ import javafx.scene.canvas.Canvas;
 import javafx.scene.layout.Pane;
 import javafx.stage.Stage;
 
+/**
+ * Hovedklasse for å starte applikasjon.
+ *
+ * Gruppe: 4
+ * Gruppemedlemmer: Krister Iversen (1 person)
+ */
 public class Main extends Application implements Config {
 
     /**
